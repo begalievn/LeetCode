@@ -27,4 +27,4 @@ const addDigits3 = (num) => {
 };
 
 let num = 38;
-console.log(addDigits2(num));
+console.log(addDigits3(num));

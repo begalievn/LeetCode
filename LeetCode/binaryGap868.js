@@ -1,6 +1,5 @@
 var binaryGap = function (n) {
   let binary = n.toString(2);
-  console.log(binary);
   let result = 0;
   let sp = -1;
 
